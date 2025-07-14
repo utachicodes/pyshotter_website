@@ -1,6 +1,6 @@
 # PyShotter Website
 
-Welcome to the official website for **PyShotter** an AI-powered, ultra-fast Python screenshot library for smart detection, annotation, sharing, and automation.
+Welcome to the website for **PyShotter** an AI-powered, ultra-fast Python screenshot library for smart detection, annotation, sharing, and automation.
 
 ---
 
